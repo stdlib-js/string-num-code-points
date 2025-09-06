@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-16)
+## Unreleased (2025-09-06)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`380f888`](https://github.com/stdlib-js/stdlib/commit/380f888de613b7b07e909ce7a1bc53f5a9801717) - **docs:** fix TypeScript declaration examples in string packages _(by Philipp Burckhardt)_
 -   [`4c404c7`](https://github.com/stdlib-js/stdlib/commit/4c404c78dcb1a575ddc8d4b770122affdec5751d) - **fix:** make CLI scripts executable [(#6085)](https://github.com/stdlib-js/stdlib/pull/6085) _(by stdlib-bot)_
 -   [`955bcbe`](https://github.com/stdlib-js/stdlib/commit/955bcbe5afffaff26af44cdd176a41a638d81f1b) - **feat:** add `string/num-code-points` [(#5456)](https://github.com/stdlib-js/stdlib/pull/5456) _(by Muhammad Haris, Stephannie Jiménez Gacha)_
 
@@ -45,9 +46,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Muhammad Haris
+-   Philipp Burckhardt
 -   Stephannie Jiménez Gacha
 
 </section>
