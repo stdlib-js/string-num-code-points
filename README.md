@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import numCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@esm/index.mjs';
+import numCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@v0.1.0-esm/index.mjs';
 ```
 
 #### numCodePoints( str )
@@ -76,7 +76,7 @@ out = numCodePoints( '👋👋👋' );
 <body>
 <script type="module">
 
-import numCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@esm/index.mjs';
+import numCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@v0.1.0-esm/index.mjs';
 
 console.log( numCodePoints( 'last man standing' ) );
 // => 17
