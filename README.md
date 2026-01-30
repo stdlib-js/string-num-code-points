@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import numCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@deno/mod.js';
+import numCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@v0.1.0-deno/mod.js';
 ```
 
 #### numCodePoints( str )
@@ -71,7 +71,7 @@ out = numCodePoints( '👋👋👋' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import numCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@deno/mod.js';
+import numCodePoints from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@v0.1.0-deno/mod.js';
 
 console.log( numCodePoints( 'last man standing' ) );
 // => 17
