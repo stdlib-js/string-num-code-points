@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-num-code-points",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the number of code points in a string.",
   "license": "Apache-2.0",
   "author": {
