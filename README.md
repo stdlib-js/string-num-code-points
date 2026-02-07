@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-numCodePoints = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@umd/browser.js' )
+numCodePoints = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@v0.1.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var numCodePoints = require( 'path/to/vendor/umd/string-num-code-points/index.js
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@v0.1.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -98,7 +98,7 @@ out = numCodePoints( '👋👋👋' );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/string-num-code-points@v0.1.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
